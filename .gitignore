@@ -28,6 +28,7 @@ ENV/
 
 # SQLite database
 *.db
+**.db
 *.sqlite
 *.sqlite3
 
